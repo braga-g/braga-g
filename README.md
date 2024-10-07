@@ -15,10 +15,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">SOC Lab for Security Monitoring and Attack Simulation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Lab for Security Monitoring and Attack Simulation</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">SOC Lab for Security Monitoring and Attack Simulation</a>|
-| YARA Rule Creation                  | <a href="https://google.com">SOC Lab for Security Monitoring and Attack Simulation</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/braga-g/SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/tree/main">SOC Lab for Security Monitoring and Attack Simulation</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/braga-g/SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/tree/main">SOC Lab for Security Monitoring and Attack Simulation</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/braga-g/SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/tree/main">SOC Lab for Security Monitoring and Attack Simulation</a>|
+| YARA Rule Creation                  | <a href="https://github.com/braga-g/SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/tree/main">SOC Lab for Security Monitoring and Attack Simulation</a>|
 
 
 ## Tools
@@ -54,4 +54,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://google.com">SOC Lab for Security Monitoring and Attack Simulation</a>
+- <a href="https://github.com/braga-g/SOC-Lab-for-Security-Monitoring-and-Attack-Simulation/tree/main">SOC Lab for Security Monitoring and Attack Simulation</a>
